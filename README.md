@@ -68,7 +68,7 @@ La base de datos cuenta con un total de 6 tablas.
 
 ## 2.2 Diagrama E/R base de datos
 
-![tpv-galileo-7](https://cloud.githubusercontent.com/assets/16189689/20643009/8b2a1cf6-b41d-11e6-83d1-88066ce3c9b4.png)
+![tpv-galileo-7](https://i.imgur.com/RvX2Dn3.png)
 
 # 3. Desarrollo del proyecto
 
