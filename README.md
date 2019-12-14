@@ -110,5 +110,7 @@ Otra opción es pulsando en la pestaña Código producto en la cual salen todos 
 Para cancelar la factura se debe dar al botón Cancelar Factura y automáticamente se cancela dicha factura y se genera una nueva.
 
 Para finalizar una factura se debe dar al botón Terminar Factura y  automáticamente se le mostrara una ventana con información importante de la factura y para poderla imprimir.
+
 ![tpv-galileo-12](https://i.imgur.com/TJBkX9U.png)
+
 Para imprimir la factura se debe introducir la dirección donde se desee guardar y un nombre.pdf
